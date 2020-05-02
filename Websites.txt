@@ -1,0 +1,16 @@
+https://www.twitter.com/{username}
+https://github.com/{username}
+https://www.youtube.com/{username}
+https://www.facebook.com/{username}
+https://gitlab.com/api/v4/users?username={username}
+https://www.instagram.com/{username}
+https://www.pinterest.com/{username}/
+https://www.quora.com/profile/{username}
+https://www.reddit.com/user/{username}
+https://soundcloud.com/{username}
+https://open.spotify.com/user/{username}
+https://steamcommunity.com/id/{username}
+https://www.tiktok.com/@{username}
+https://www.gotinder.com/@{username}
+https://www.twitch.tv/{username}
+https://venmo.com/{username}
